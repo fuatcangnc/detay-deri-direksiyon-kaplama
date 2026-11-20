@@ -1,0 +1,369 @@
+{
+  "nav": {
+    "home": "Home",
+    "company": "Company",
+    "about": "About us",
+    "services": "Services",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "cta": "Ask for a price",
+  "topbar": "Custom leather steering wheel covers, stitched while you wait.",
+  "whatsapp": {
+    "message": "Hello, I would like to ask about a leather steering wheel cover.",
+    "online": "Online",
+    "help": "Need help?",
+    "ask": "Ask on WhatsApp"
+  },
+  "hero": {
+    "eyebrow": "Steering wheels · Leather · Custom fit",
+    "title": "We renew your steering wheel",
+    "accent": "in real leather",
+    "text": "We stitch a cover made for your car and your taste onto your own steering wheel without removing it. Pick the model in the shop, and in 1 to 3 hours you drive away.",
+    "primary": "Ask for a price",
+    "rating": "5.0 from 450 reviews on Google",
+    "panel": "How we work",
+    "status": "Hand-stitched"
+  },
+  "highlights": [
+    "Steering wheel stays on the car",
+    "Choose the model in the shop",
+    "Done in 1 to 3 hours"
+  ],
+  "metrics": [
+    {
+      "value": "5.0",
+      "label": "Google rating"
+    },
+    {
+      "value": "450",
+      "label": "Google reviews"
+    },
+    {
+      "value": "7",
+      "label": "Days a week"
+    }
+  ],
+  "services": {
+    "badge": "What we do",
+    "title": "Services that",
+    "accent": "fit your car",
+    "intro": "Leather steering wheel covers, repairs and custom work, all in one place.",
+    "more": "Learn more",
+    "all": "See all services",
+    "help": "Not sure which model suits your car? Ask us and we will show you.",
+    "details": "details",
+    "count": "services"
+  },
+  "pillars": {
+    "badge": "Two ways we help",
+    "title": "Custom work and",
+    "accent": "practical tips",
+    "text": "Choose what you need today: a leather cover stitched by our team, or simple tips to keep it looking new.",
+    "view": "View",
+    "items": [
+      {
+        "title": "Our services",
+        "subtitle": "Done together with you",
+        "tag": "Cars & drivers",
+        "text": "From a new leather cover to a full interior repair, we work on your car while you wait.",
+        "list": "Popular services",
+        "bullets": [
+          "Free first look",
+          "Price agreed up front",
+          "One person to talk to"
+        ],
+        "action": "See all services"
+      },
+      {
+        "title": "Guides & tips",
+        "subtitle": "Learn at your own pace",
+        "tag": "Free advice",
+        "text": "Short, practical articles on leather care and choosing the right cover.",
+        "list": "Latest articles",
+        "bullets": [
+          "Care tips",
+          "Real examples",
+          "Updated regularly"
+        ],
+        "action": "Read the blog"
+      }
+    ]
+  },
+  "why": {
+    "badge": "Why choose us",
+    "title": "Why drivers come to us",
+    "text": "Clear prices, careful handwork and a shop you can walk into and see the leather for yourself.",
+    "features": [
+      {
+        "title": "Skilled hands",
+        "text": "Every cover is stitched by hand on your own steering wheel."
+      },
+      {
+        "title": "Clear process",
+        "text": "You see the leather, agree the price, then we start."
+      },
+      {
+        "title": "Fast work",
+        "text": "Most covers take 1 to 3 hours, start to finish."
+      },
+      {
+        "title": "Wholesale and retail",
+        "text": "Single cars and bulk orders both welcome."
+      }
+    ],
+    "stats": [
+      {
+        "value": 5,
+        "suffix": "",
+        "label": "Rating",
+        "text": "From 450 Google reviews."
+      },
+      {
+        "value": 450,
+        "suffix": "+",
+        "label": "Reviews",
+        "text": "Drivers who took the time to write."
+      },
+      {
+        "value": 7,
+        "suffix": "",
+        "label": "Days",
+        "text": "A week, call before you come."
+      },
+      {
+        "value": 3,
+        "suffix": "",
+        "label": "Hours",
+        "text": "Longest a cover usually takes."
+      }
+    ]
+  },
+  "process": {
+    "badge": "How it works",
+    "title": "From your call to the finished wheel",
+    "text": "A simple process that keeps your car on the road the same day.",
+    "kicker": "Call before you come",
+    "center": "Tell us your car model",
+    "action": "Message us",
+    "steps": [
+      {
+        "title": "Call",
+        "text": "Ring us or send a message and tell us your car model."
+      },
+      {
+        "title": "Choose",
+        "text": "Look at the models and leather in the shop and pick what you like."
+      },
+      {
+        "title": "Stitch",
+        "text": "We sew the cover onto your steering wheel without removing it."
+      },
+      {
+        "title": "Drive",
+        "text": "Check the result, pay, and drive away with a new wheel."
+      }
+    ]
+  },
+  "testimonials": {
+    "badge": "Customer stories",
+    "title": "Real feedback.",
+    "accent": "Real work.",
+    "text": "What drivers say after visiting the shop.",
+    "see": "See reviews on Google",
+    "source": "Google review",
+    "verified": "Verified",
+    "prev": "Previous review",
+    "next": "Next review",
+    "items": [
+      {
+        "name": "Google user",
+        "role": "2 weeks ago",
+        "project": "Auto upholsterer",
+        "quote": "Salih ustaya ayrıca teşekkürler Peugeot 307 nin nerdeyse sürüşü değişti burayı internetten araştırma sonucu bulduğum ama şaşırtıcı derecede çok memnun kaldığım yer bu konuda kendilerini ispatlamışlar sohbetleri ayrıca bir içten sıcak ve samimi hayırlı işleri olsun her daim daimi mekan artik herkes tavsiye ederim",
+        "rating": 5
+      },
+      {
+        "name": "Google user",
+        "role": "6 months ago",
+        "project": "Auto upholsterer",
+        "quote": "Yaptırmış olduğum direksiyon kılıfındaki işçiliği ve kaliteyi bu kadar beklemiyordum ben de şaşırdım ve halı paspaslarını da uygun fiyatlı ve kaliteli bulduğum için denemek istedim verdikleri araç kokusu hediyesi için de teşekkür ederim",
+        "rating": 5
+      },
+      {
+        "name": "Google user",
+        "role": "a month ago",
+        "project": "Auto upholsterer",
+        "quote": "İlk gittim yunus bey görüşme sağladım karşılama süper işçilik süper Allah bol kazançlı günler nasip etsin",
+        "rating": 5
+      },
+      {
+        "name": "Google user",
+        "role": "4 months ago",
+        "project": "Auto upholsterer",
+        "quote": "Yaklaşık 15 dakika önce dükkana uğradık Linea aracımızı  45 dakika da detaylı bir şekilde direksiyon kılıfını herkese tavsiye ediyorum  fiyat performans olarak on numara ayrıca arkadaşlara araç kokusu hediyesi içinde teşekkür ediyorum.  Böyle esnaf arkadaşlarımız hep kazansın",
+        "rating": 5
+      },
+      {
+        "name": "Google user",
+        "role": "4 months ago",
+        "project": "Auto upholsterer",
+        "quote": "Salih ustamın eline sağlık Honda civic aracım için yaptırdım gayet güzel oldu herkese tavsiye ediyorum uygun fiyata kaliteli işçilik",
+        "rating": 5
+      }
+    ]
+  },
+  "quote": {
+    "badge": "Quick quote",
+    "title": "Tell us about your car",
+    "accent": "and get a price",
+    "text": "Share your car model and what you want, and we will reply with a clear price.",
+    "steps": [
+      {
+        "title": "Reply the same day",
+        "text": "We read your message and answer as soon as we can."
+      },
+      {
+        "title": "Clear price",
+        "text": "No surprises: you hear the price before we start."
+      },
+      {
+        "title": "No obligation",
+        "text": "Looking and asking costs nothing."
+      }
+    ],
+    "hotline": "Direct line"
+  },
+  "form": {
+    "eyebrow": "Free quote",
+    "title": "Request a price",
+    "text": "Tell us your car and what you need, and we will get back to you shortly.",
+    "name": "Full name",
+    "namePlaceholder": "Your name",
+    "phone": "Phone",
+    "company": "Company",
+    "companyPlaceholder": "Company name",
+    "service": "Service",
+    "choose": "Choose a service",
+    "details": "Car and details",
+    "detailsPlaceholder": "Car model, year, and what you would like done...",
+    "consent": "I agree that my details are used to prepare a price.",
+    "send": "Send via WhatsApp",
+    "safe": "Your data is safe",
+    "reply": "Average reply: same day",
+    "sent": "Opening WhatsApp with your request...",
+    "heading": "New price request"
+  },
+  "blog": {
+    "badge": "Tips",
+    "title": "Blog",
+    "intro": "Leather care, cover choices and news from the shop.",
+    "readMore": "Read more",
+    "all": "All articles",
+    "related": "Related articles",
+    "summary": "Summary",
+    "consultTitle": "Have a question about this topic?",
+    "consultText": "Send us a message and we will be glad to help.",
+    "consultAction": "Ask us"
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Frequently asked questions",
+    "text": "Quick answers to what drivers ask us most.",
+    "items": [
+      {
+        "question": "Do I need an appointment?",
+        "answer": "No. Just call before you come so we can plan the time for your car."
+      },
+      {
+        "question": "How long does it take?",
+        "answer": "Usually between 1 and 3 hours, depending on the model and the car."
+      },
+      {
+        "question": "Do you remove the steering wheel?",
+        "answer": "No. We stitch the leather cover on your steering wheel while it stays in the car."
+      },
+      {
+        "question": "Can I see the leather first?",
+        "answer": "Yes. Come to the shop, look at the models and pick the one you like."
+      }
+    ],
+    "bannerTitle": "Have a question?",
+    "bannerAccent": "Talk to us.",
+    "bannerText": "Send us a message and we will answer quickly."
+  },
+  "ctaBanner": {
+    "eyebrow": "Let's work together",
+    "title": "Ready for a new steering wheel?",
+    "text": "Tell us your car model and we will show you what fits.",
+    "help": "Need help?",
+    "call": "Call us"
+  },
+  "about": {
+    "eyebrow": "Company",
+    "title": "About us",
+    "intro": "We are a small upholstery shop that puts careful handwork first.",
+    "kicker": "Our approach",
+    "heading": "We make your steering wheel feel new again.",
+    "body": "We stitch leather covers made for your car and your taste, without removing the steering wheel. You see the models in the shop, we agree the price, and in a few hours you drive away.",
+    "principles": "Our principles",
+    "principlesTitle": "The same care in every car.",
+    "band": "Call before you come and we will find the right cover together."
+  },
+  "service": {
+    "scope": "What's included",
+    "title": "Know what you get before we start.",
+    "body": "Every job starts with a short look at your car and your steering wheel. We show you the leather and models, agree a clear price, and only then begin.",
+    "checks": "What we look at",
+    "checkItems": [
+      "Your car model and steering wheel shape",
+      "The leather and stitching you prefer",
+      "How long the work will take",
+      "The price, agreed before we start"
+    ],
+    "stepsTitle": "Four steps, no surprises.",
+    "sideKicker": "Expert help",
+    "sideTitle": "Let's find the right cover for your car.",
+    "sideText": "Share your car model and we will get back to you with a price.",
+    "sideList": [
+      "Free first look",
+      "Price agreed up front",
+      "One person to talk to"
+    ],
+    "related": "More services",
+    "relatedTitle": "Related services.",
+    "formTitle": "Get a price:",
+    "formHeading": "Let's plan your steering wheel together.",
+    "formText": "We agree the model, the time and the price, then send you a simple answer."
+  },
+  "contact": {
+    "eyebrow": "Contact & price",
+    "title": "Contact",
+    "intro": "Have a question or want a cover? Write to us or call before you come.",
+    "kicker": "Contact",
+    "heading": "Send us a message.",
+    "text": "Tell us your car model and we will get back to you.",
+    "office": "Our shop",
+    "phoneEmail": "Phone & email",
+    "hours": "Opening hours",
+    "hoursValue": "Call before you come",
+    "closed": "We plan your visit by phone",
+    "phone": "Phone",
+    "email": "Email"
+  },
+  "footer": {
+    "tagline": "Leather steering wheel covers, upholstery repair and custom work in Eyüpsultan.",
+    "rights": "All rights reserved.",
+    "contact": "Contact & shop",
+    "trust": [
+      "Free first look",
+      "Price agreed up front",
+      "Wholesale and retail"
+    ]
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "The page you are looking for does not exist or has moved.",
+    "home": "Back to home"
+  }
+}

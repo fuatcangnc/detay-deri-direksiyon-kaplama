@@ -1,0 +1,369 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "company": "Atelier",
+    "about": "À propos",
+    "services": "Prestations",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "cta": "Prendre rendez-vous",
+  "topbar": "Housses de volant en cuir, posées sur place, sans démontage. Appelez avant de passer.",
+  "whatsapp": {
+    "message": "Bonjour, je voudrais des renseignements sur la rénovation de mon volant.",
+    "online": "En ligne",
+    "help": "Besoin d'aide ?",
+    "ask": "Écrire sur WhatsApp"
+  },
+  "hero": {
+    "eyebrow": "Cuir · Volants · Sur mesure",
+    "title": "Nous habillons votre volant",
+    "accent": "en cuir, sans le démonter",
+    "text": "Volant sur mesure, cousu à la main sur votre voiture. Les modèles se voient et se choisissent en boutique. Comptez 1 à 3 heures de pose.",
+    "primary": "Prendre rendez-vous",
+    "rating": "450 avis 5 étoiles sur Google",
+    "panel": "Notre méthode",
+    "status": "Pose sur place"
+  },
+  "highlights": [
+    "Volant laissé en place",
+    "Modèles à voir en boutique",
+    "Vente au détail et en gros"
+  ],
+  "metrics": [
+    {
+      "value": "5",
+      "label": "Note Google"
+    },
+    {
+      "value": "450",
+      "label": "Avis clients"
+    },
+    {
+      "value": "1–3 h",
+      "label": "Temps de pose"
+    }
+  ],
+  "services": {
+    "badge": "Nos prestations",
+    "title": "Des volants",
+    "accent": "comme neufs",
+    "intro": "De la housse sur mesure à la rénovation du cuir, tout se fait sur place.",
+    "more": "En savoir plus",
+    "all": "Toutes les prestations",
+    "help": "Vous hésitez sur le modèle ? Passez le voir en boutique, on vous conseille.",
+    "details": "détails",
+    "count": "prestations"
+  },
+  "pillars": {
+    "badge": "Deux façons de nous joindre",
+    "title": "Un travail soigné et",
+    "accent": "des conseils simples",
+    "text": "Choisissez ce qu'il vous faut : la pose par notre équipe ou un échange rapide avant de venir.",
+    "view": "Voir",
+    "items": [
+      {
+        "title": "Nos prestations",
+        "subtitle": "Réalisées devant vous",
+        "tag": "Volants & cuir",
+        "text": "Housse sur mesure, rénovation, réparation ou habillage de voiture ancienne : on travaille sur votre véhicule, sans démonter le volant.",
+        "list": "Prestations courantes",
+        "bullets": [
+          "Pose sans démontage",
+          "Sur mesure",
+          "Détail et gros"
+        ],
+        "action": "Toutes les prestations"
+      },
+      {
+        "title": "Conseils & modèles",
+        "subtitle": "À voir en boutique",
+        "tag": "Sur place",
+        "text": "Les cuirs et les modèles se touchent et se choisissent au magasin avant la pose.",
+        "list": "Le plus demandé",
+        "bullets": [
+          "Modèles en boutique",
+          "Couleurs et surpiqûres",
+          "Conseil avant de venir"
+        ],
+        "action": "Lire le blog"
+      }
+    ]
+  },
+  "why": {
+    "badge": "Pourquoi nous choisir",
+    "title": "Pourquoi les clients viennent chez nous",
+    "text": "Un travail propre, des prix honnêtes et un accueil qu'on nous cite dans les avis.",
+    "features": [
+      {
+        "title": "Travail soigné",
+        "text": "Cuir cousu sur votre volant, sans le démonter."
+      },
+      {
+        "title": "Pose rapide",
+        "text": "Entre 1 et 3 heures selon le modèle."
+      },
+      {
+        "title": "Accueil chaleureux",
+        "text": "On discute, on montre, on conseille avant de commencer."
+      },
+      {
+        "title": "Prix justes",
+        "text": "Qualité au prix annoncé, sans surprise à la sortie."
+      }
+    ],
+    "stats": [
+      {
+        "value": 5,
+        "suffix": "/5",
+        "label": "Note Google",
+        "text": "Sur 450 avis clients."
+      },
+      {
+        "value": 450,
+        "suffix": "+",
+        "label": "Avis",
+        "text": "Clients qui ont laissé un avis."
+      },
+      {
+        "value": 1,
+        "suffix": " h",
+        "label": "Minimum",
+        "text": "De pose sur place."
+      },
+      {
+        "value": 3,
+        "suffix": " h",
+        "label": "Maximum",
+        "text": "Pour les modèles les plus travaillés."
+      }
+    ]
+  },
+  "process": {
+    "badge": "Comment ça se passe",
+    "title": "De l'appel au volant refait",
+    "text": "Simple : vous appelez, vous choisissez, on pose.",
+    "kicker": "Appelez avant de passer",
+    "center": "Parlons de votre volant",
+    "action": "Écrivez-nous",
+    "steps": [
+      {
+        "title": "Appel",
+        "text": "Vous appelez, on vous dit ce qui est possible et combien de temps ça prend."
+      },
+      {
+        "title": "Choix du modèle",
+        "text": "En boutique, vous voyez et touchez les cuirs et les finitions."
+      },
+      {
+        "title": "Pose",
+        "text": "Housse cousue sur votre volant, sans démontage, en 1 à 3 heures."
+      },
+      {
+        "title": "Vérification",
+        "text": "On contrôle la couture et la finition avec vous avant de partir."
+      }
+    ]
+  },
+  "testimonials": {
+    "badge": "Témoignages",
+    "title": "De vrais retours.",
+    "accent": "De vrais volants.",
+    "text": "Ce que nos clients disent de leur passage à l'atelier.",
+    "see": "Voir les avis Google",
+    "source": "Avis Google",
+    "verified": "Vérifié",
+    "prev": "Avis précédent",
+    "next": "Avis suivant",
+    "items": [
+      {
+        "name": "Utilisateur Google",
+        "role": "2 weeks ago",
+        "project": "Auto upholsterer",
+        "quote": "Salih ustaya ayrıca teşekkürler Peugeot 307 nin nerdeyse sürüşü değişti burayı internetten araştırma sonucu bulduğum ama şaşırtıcı derecede çok memnun kaldığım yer bu konuda kendilerini ispatlamışlar sohbetleri ayrıca bir içten sıcak ve samimi hayırlı işleri olsun her daim daimi mekan artik herkes tavsiye ederim",
+        "rating": 5
+      },
+      {
+        "name": "Utilisateur Google",
+        "role": "6 months ago",
+        "project": "Auto upholsterer",
+        "quote": "Yaptırmış olduğum direksiyon kılıfındaki işçiliği ve kaliteyi bu kadar beklemiyordum ben de şaşırdım ve halı paspaslarını da uygun fiyatlı ve kaliteli bulduğum için denemek istedim verdikleri araç kokusu hediyesi için de teşekkür ederim",
+        "rating": 5
+      },
+      {
+        "name": "Utilisateur Google",
+        "role": "a month ago",
+        "project": "Auto upholsterer",
+        "quote": "İlk gittim yunus bey görüşme sağladım karşılama süper işçilik süper Allah bol kazançlı günler nasip etsin",
+        "rating": 5
+      },
+      {
+        "name": "Utilisateur Google",
+        "role": "4 months ago",
+        "project": "Auto upholsterer",
+        "quote": "Yaklaşık 15 dakika önce dükkana uğradık Linea aracımızı  45 dakika da detaylı bir şekilde direksiyon kılıfını herkese tavsiye ediyorum  fiyat performans olarak on numara ayrıca arkadaşlara araç kokusu hediyesi içinde teşekkür ediyorum.  Böyle esnaf arkadaşlarımız hep kazansın",
+        "rating": 5
+      },
+      {
+        "name": "Utilisateur Google",
+        "role": "4 months ago",
+        "project": "Auto upholsterer",
+        "quote": "Salih ustamın eline sağlık Honda civic aracım için yaptırdım gayet güzel oldu herkese tavsiye ediyorum uygun fiyata kaliteli işçilik",
+        "rating": 5
+      }
+    ]
+  },
+  "quote": {
+    "badge": "Rendez-vous rapide",
+    "title": "Parlez-nous de votre volant",
+    "accent": "et prenez rendez-vous",
+    "text": "Un message ou un appel suffit : on vous répond et on fixe l'heure de la pose.",
+    "steps": [
+      {
+        "title": "Réponse rapide",
+        "text": "Vous écrivez ou vous appelez, on vous répond dans la journée."
+      },
+      {
+        "title": "Prix annoncé",
+        "text": "On vous dit le prix avant de commencer, sans coût caché."
+      },
+      {
+        "title": "Sans engagement",
+        "text": "Vous venez voir les modèles, vous décidez après."
+      }
+    ],
+    "hotline": "Ligne directe"
+  },
+  "form": {
+    "eyebrow": "Rendez-vous",
+    "title": "Demander un rendez-vous",
+    "text": "Dites-nous quel véhicule et quel modèle vous voulez, on vous rappelle.",
+    "name": "Nom complet",
+    "namePlaceholder": "Votre nom",
+    "phone": "Téléphone",
+    "company": "Véhicule",
+    "companyPlaceholder": "Marque et modèle",
+    "service": "Prestation",
+    "choose": "Choisir une prestation",
+    "details": "Votre demande",
+    "detailsPlaceholder": "Décrivez votre volant et ce que vous souhaitez...",
+    "consent": "J'accepte que mes données soient utilisées pour préparer ma réponse.",
+    "send": "Envoyer via WhatsApp",
+    "safe": "Vos données restent protégées",
+    "reply": "Réponse le jour même",
+    "sent": "Ouverture de WhatsApp avec votre demande...",
+    "heading": "Nouvelle demande de rendez-vous"
+  },
+  "blog": {
+    "badge": "Conseils",
+    "title": "Blog",
+    "intro": "Cuir, entretien et modèles : les conseils de l'atelier.",
+    "readMore": "Lire la suite",
+    "all": "Tous les articles",
+    "related": "Articles similaires",
+    "summary": "Résumé",
+    "consultTitle": "Une question sur ce sujet ?",
+    "consultText": "Écrivez-nous, on vous répond avec plaisir.",
+    "consultAction": "Nous demander"
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Questions fréquentes",
+    "text": "Des réponses rapides aux questions qu'on nous pose le plus.",
+    "items": [
+      {
+        "question": "Faut-il démonter le volant ?",
+        "answer": "Non. On coud la housse en cuir sur le volant, laissé en place dans la voiture."
+      },
+      {
+        "question": "Combien de temps ça prend ?",
+        "answer": "Entre 1 et 3 heures selon le modèle choisi."
+      },
+      {
+        "question": "Comment choisir le cuir ?",
+        "answer": "Passez en boutique : les modèles s'y voient et se touchent avant la pose."
+      },
+      {
+        "question": "Faut-il appeler avant de venir ?",
+        "answer": "Oui, un simple appel suffit pour convenir de l'heure et du modèle."
+      }
+    ],
+    "bannerTitle": "Une question ?",
+    "bannerAccent": "Appelez l'atelier.",
+    "bannerText": "Un message ou un appel, on vous répond vite."
+  },
+  "ctaBanner": {
+    "eyebrow": "On s'occupe de votre volant",
+    "title": "Prêt à refaire votre volant ?",
+    "text": "Appelez-nous ou passez voir les modèles en boutique.",
+    "help": "Besoin d'aide ?",
+    "call": "Appelez-nous"
+  },
+  "about": {
+    "eyebrow": "Atelier",
+    "title": "À propos",
+    "intro": "Un atelier de cuir pour volants, à Eyüpsultan, qui travaille devant vous.",
+    "kicker": "Notre approche",
+    "heading": "Votre volant, habillé sur mesure, sans démontage.",
+    "body": "On coud à la main une housse en cuir sur votre volant, adaptée à votre voiture et à votre goût. On choisit ensemble le modèle en boutique, puis on pose sur place. Réparation, remplacement, habillage de voiture ancienne ou création sur mesure : on fait tout au même endroit, et on vend aussi au détail comme en gros.",
+    "principles": "Nos principes",
+    "principlesTitle": "Les mêmes principes pour chaque volant.",
+    "band": "Appelez avant de passer, on s'organise."
+  },
+  "service": {
+    "scope": "Ce qui est compris",
+    "title": "Bien choisir dès le départ.",
+    "body": "On regarde d'abord votre volant, votre véhicule et l'usage que vous en avez. On vous montre les cuirs et les finitions disponibles, puis on annonce le temps de pose et le prix.",
+    "checks": "Ce qu'on vérifie",
+    "checkItems": [
+      "Votre volant et son état actuel",
+      "Le modèle, le cuir et les surpiqûres",
+      "Le temps de pose et le prix",
+      "Le rendez-vous et ce qu'il faut prévoir"
+    ],
+    "stepsTitle": "Quatre étapes, aucune surprise.",
+    "sideKicker": "Conseil atelier",
+    "sideTitle": "Trouvons le modèle qui vous va.",
+    "sideText": "Dites-nous votre véhicule, on vous répond avec les possibilités.",
+    "sideList": [
+      "Modèles visibles en boutique",
+      "Pose sans démontage",
+      "Prix annoncé avant de commencer"
+    ],
+    "related": "Autres prestations",
+    "relatedTitle": "Prestations associées.",
+    "formTitle": "Prendre rendez-vous :",
+    "formHeading": "Fixons l'heure de la pose.",
+    "formText": "On confirme le modèle, le temps de pose et le prix, puis on vous donne l'heure."
+  },
+  "contact": {
+    "eyebrow": "Contact & rendez-vous",
+    "title": "Contact",
+    "intro": "Une question ou un volant à refaire ? Écrivez-nous, on répond vite.",
+    "kicker": "Contact",
+    "heading": "Envoyez-nous un message.",
+    "text": "Parlez-nous de votre véhicule, on vous rappelle.",
+    "office": "L'atelier",
+    "phoneEmail": "Téléphone & e-mail",
+    "hours": "Passage",
+    "hoursValue": "Appelez avant de venir",
+    "closed": "Dimanche : sur rendez-vous",
+    "phone": "Téléphone",
+    "email": "E-mail"
+  },
+  "footer": {
+    "tagline": "Housses de volant en cuir sur mesure, posées sur place, sans démontage.",
+    "rights": "Tous droits réservés.",
+    "contact": "Contact & atelier",
+    "trust": [
+      "Appel avant de passer",
+      "Prix annoncé",
+      "Pose sans démontage"
+    ]
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "text": "La page que vous cherchez n'existe pas ou a été déplacée.",
+    "home": "Retour à l'accueil"
+  }
+}

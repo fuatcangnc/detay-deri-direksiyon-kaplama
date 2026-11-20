@@ -1,0 +1,369 @@
+{
+  "nav": {
+    "home": "Ana sayfa",
+    "company": "Kurumsal",
+    "about": "Hakkımızda",
+    "services": "Hizmetler",
+    "blog": "Blog",
+    "contact": "İletişim"
+  },
+  "cta": "Randevu alın",
+  "topbar": "Araca özel deri direksiyon kılıfı, yerinde dikim. Gelmeden önce arayın.",
+  "whatsapp": {
+    "message": "Merhaba, direksiyon kılıfı hakkında bilgi almak istiyorum.",
+    "online": "Çevrimiçi",
+    "help": "Yardım mı lazım?",
+    "ask": "WhatsApp'tan sorun"
+  },
+  "hero": {
+    "eyebrow": "Deri direksiyon · Araca özel · Yerinde dikim",
+    "title": "Direksiyonunuzu",
+    "accent": "sökmeden deri kaplıyoruz",
+    "text": "Aracınıza ve size özel deri direksiyon kılıfını yerinde dikiyoruz. Modeli dükkanda görüp beğenirsiniz, kaplama 1–3 saat sürer.",
+    "primary": "Randevu alın",
+    "rating": "Google'da 450 yorum, 5 yıldız",
+    "panel": "Nasıl çalışıyoruz",
+    "status": "Yerinde dikim"
+  },
+  "highlights": [
+    "Sökmeden dikim",
+    "1–3 saatte kaplama",
+    "Toptan ve perakende"
+  ],
+  "metrics": [
+    {
+      "value": "5",
+      "label": "Google puanı"
+    },
+    {
+      "value": "450",
+      "label": "Google yorumu"
+    },
+    {
+      "value": "1–3",
+      "label": "Saatte kaplama"
+    }
+  ],
+  "services": {
+    "badge": "Ne yapıyoruz",
+    "title": "Direksiyonunuza",
+    "accent": "özel çözümler",
+    "intro": "Deri direksiyon kılıfı, yenileme ve araca özel dikim.",
+    "more": "Detaylı bilgi",
+    "all": "Tüm hizmetler",
+    "help": "Hangi model size uyar, birlikte bakalım.",
+    "details": "detay",
+    "count": "hizmet"
+  },
+  "pillars": {
+    "badge": "İki şekilde hizmet",
+    "title": "Yerinde dikim ve",
+    "accent": "model seçimi",
+    "text": "Modelleri dükkanda görüp beğenirsiniz. Toptan ya da perakende, ikisi de mümkün.",
+    "view": "İncele",
+    "items": [
+      {
+        "title": "Direksiyon kaplama",
+        "subtitle": "Yerinde, sökmeden",
+        "tag": "Araç sahipleri",
+        "text": "Direksiyonunuzu sökmeden deri kılıfı yerinde dikiyoruz.",
+        "list": "Popüler işlemler",
+        "bullets": [
+          "Araca özel kalıp",
+          "1–3 saatte teslim",
+          "Deri ve dikiş seçimi"
+        ],
+        "action": "Tüm hizmetler"
+      },
+      {
+        "title": "Model ve malzeme",
+        "subtitle": "Dükkanda görerek seçin",
+        "tag": "Toptan ve perakende",
+        "text": "İstediğiniz modeli dükkanda görüp beğenebilirsiniz.",
+        "list": "Neler var",
+        "bullets": [
+          "Deri seçenekleri",
+          "Dikiş renkleri",
+          "Toptan satış"
+        ],
+        "action": "Bize sorun"
+      }
+    ]
+  },
+  "why": {
+    "badge": "Neden biz",
+    "title": "Araç sahipleri neden bizi seçiyor",
+    "text": "Sökmeden dikim, yerinde işçilik ve dürüst fiyat.",
+    "features": [
+      {
+        "title": "Yerinde işçilik",
+        "text": "Direksiyonunuzu sökmeden kaplıyoruz."
+      },
+      {
+        "title": "Araca özel",
+        "text": "Her modele göre kalıp çıkarıyoruz."
+      },
+      {
+        "title": "Kısa süre",
+        "text": "Kaplama 1–3 saat arasında sürer."
+      },
+      {
+        "title": "Toptan ve perakende",
+        "text": "Tek araç da olsa, toplu alım da olsa."
+      }
+    ],
+    "stats": [
+      {
+        "value": 5,
+        "suffix": "/5",
+        "label": "Puan",
+        "text": "Google'daki ortalama puanımız."
+      },
+      {
+        "value": 450,
+        "suffix": "+",
+        "label": "Yorum",
+        "text": "Google'da bizi değerlendiren araç sahibi."
+      },
+      {
+        "value": 3,
+        "suffix": "saat",
+        "label": "Süre",
+        "text": "Kaplama 1–3 saat arasında sürer."
+      },
+      {
+        "value": 4,
+        "suffix": "",
+        "label": "Adım",
+        "text": "Arayın, seçin, dikelim, teslim edelim."
+      }
+    ]
+  },
+  "process": {
+    "badge": "Nasıl işler",
+    "title": "Aramadan teslimata",
+    "text": "Basit bir süreç: arayın, modeli seçin, dikimi yapalım.",
+    "kicker": "Gelmeden önce arayın",
+    "center": "Randevu alalım",
+    "action": "Bize yazın",
+    "steps": [
+      {
+        "title": "Arayın",
+        "text": "Gelmeden önce telefonla randevu alın."
+      },
+      {
+        "title": "Model seçin",
+        "text": "Dükkanda modelleri görüp beğenin."
+      },
+      {
+        "title": "Dikim",
+        "text": "Direksiyonunuzu sökmeden yerinde dikiyoruz."
+      },
+      {
+        "title": "Teslim",
+        "text": "1–3 saat içinde aracınızı alın."
+      }
+    ]
+  },
+  "testimonials": {
+    "badge": "Müşteri yorumları",
+    "title": "Gerçek yorumlar.",
+    "accent": "Gerçek işçilik.",
+    "text": "Müşterilerimiz direksiyon kaplamayı nasıl anlatıyor.",
+    "see": "Google yorumlarını görün",
+    "source": "Google yorumu",
+    "verified": "Doğrulandı",
+    "prev": "Önceki yorum",
+    "next": "Sonraki yorum",
+    "items": [
+      {
+        "name": "Google kullanıcısı",
+        "role": "2 weeks ago",
+        "project": "Auto upholsterer",
+        "quote": "Salih ustaya ayrıca teşekkürler Peugeot 307 nin nerdeyse sürüşü değişti burayı internetten araştırma sonucu bulduğum ama şaşırtıcı derecede çok memnun kaldığım yer bu konuda kendilerini ispatlamışlar sohbetleri ayrıca bir içten sıcak ve samimi hayırlı işleri olsun her daim daimi mekan artik herkes tavsiye ederim",
+        "rating": 5
+      },
+      {
+        "name": "Google kullanıcısı",
+        "role": "6 months ago",
+        "project": "Auto upholsterer",
+        "quote": "Yaptırmış olduğum direksiyon kılıfındaki işçiliği ve kaliteyi bu kadar beklemiyordum ben de şaşırdım ve halı paspaslarını da uygun fiyatlı ve kaliteli bulduğum için denemek istedim verdikleri araç kokusu hediyesi için de teşekkür ederim",
+        "rating": 5
+      },
+      {
+        "name": "Google kullanıcısı",
+        "role": "a month ago",
+        "project": "Auto upholsterer",
+        "quote": "İlk gittim yunus bey görüşme sağladım karşılama süper işçilik süper Allah bol kazançlı günler nasip etsin",
+        "rating": 5
+      },
+      {
+        "name": "Google kullanıcısı",
+        "role": "4 months ago",
+        "project": "Auto upholsterer",
+        "quote": "Yaklaşık 15 dakika önce dükkana uğradık Linea aracımızı  45 dakika da detaylı bir şekilde direksiyon kılıfını herkese tavsiye ediyorum  fiyat performans olarak on numara ayrıca arkadaşlara araç kokusu hediyesi içinde teşekkür ediyorum.  Böyle esnaf arkadaşlarımız hep kazansın",
+        "rating": 5
+      },
+      {
+        "name": "Google kullanıcısı",
+        "role": "4 months ago",
+        "project": "Auto upholsterer",
+        "quote": "Salih ustamın eline sağlık Honda civic aracım için yaptırdım gayet güzel oldu herkese tavsiye ediyorum uygun fiyata kaliteli işçilik",
+        "rating": 5
+      }
+    ]
+  },
+  "quote": {
+    "badge": "Randevu",
+    "title": "Aracınızı söyleyin",
+    "accent": "modeli birlikte seçelim",
+    "text": "Gelmeden önce arayın, modeli dükkanda görüp beğenin.",
+    "steps": [
+      {
+        "title": "Aynı gün dönüş",
+        "text": "Telefonla arayın, uygun saati konuşalım."
+      },
+      {
+        "title": "Net süre",
+        "text": "Kaplama 1–3 saat arasında sürer."
+      },
+      {
+        "title": "Yerinde dikim",
+        "text": "Direksiyonunuzu sökmeden kaplıyoruz."
+      }
+    ],
+    "hotline": "Doğrudan hat"
+  },
+  "form": {
+    "eyebrow": "Randevu",
+    "title": "Randevu isteyin",
+    "text": "Aracınızı ve istediğiniz modeli yazın, kısa sürede dönelim.",
+    "name": "Ad soyad",
+    "namePlaceholder": "Adınız",
+    "phone": "Telefon",
+    "company": "Araç modeli",
+    "companyPlaceholder": "Örn. Honda Civic",
+    "service": "İşlem",
+    "choose": "İşlem seçin",
+    "details": "Notlar",
+    "detailsPlaceholder": "Aracınızı ve istediğiniz modeli yazın...",
+    "consent": "Bilgilerimin randevu için kullanılmasını kabul ediyorum.",
+    "send": "WhatsApp ile gönder",
+    "safe": "Bilgileriniz bizde kalır",
+    "reply": "Ortalama yanıt: aynı gün",
+    "sent": "Talebinizle WhatsApp açılıyor...",
+    "heading": "Yeni randevu talebi"
+  },
+  "blog": {
+    "badge": "Bilgi",
+    "title": "Blog",
+    "intro": "Direksiyon bakımı, deri seçimi ve pratik ipuçları.",
+    "readMore": "Devamını okuyun",
+    "all": "Tüm yazılar",
+    "related": "İlgili yazılar",
+    "summary": "Özet",
+    "consultTitle": "Bu konuda sorunuz mu var?",
+    "consultText": "Bize mesaj gönderin, memnuniyetle yardımcı olalım.",
+    "consultAction": "Bize sorun"
+  },
+  "faq": {
+    "badge": "SSS",
+    "title": "Sıkça sorulan sorular",
+    "text": "En sık duyduğumuz sorulara kısa yanıtlar.",
+    "items": [
+      {
+        "question": "Nasıl randevu alırım?",
+        "answer": "Gelmeden önce aramanız yeter. Uygun saati konuşup sizi bekleriz."
+      },
+      {
+        "question": "Kaplama ne kadar sürer?",
+        "answer": "Modele göre 1–3 saat arasında sürer."
+      },
+      {
+        "question": "Direksiyon sökülüyor mu?",
+        "answer": "Hayır. Direksiyonunuzu sökmeden yerinde dikiyoruz."
+      },
+      {
+        "question": "Fiyatı ne belirler?",
+        "answer": "Model, deri ve dikiş seçimi. Dükkanda görüp net fiyat alırsınız."
+      }
+    ],
+    "bannerTitle": "Sorunuz mu var?",
+    "bannerAccent": "Bizi arayın.",
+    "bannerText": "Gelmeden önce arayın, yerinizi ayırtın."
+  },
+  "ctaBanner": {
+    "eyebrow": "Randevu",
+    "title": "Direksiyonunuz hazır mı?",
+    "text": "Arayın, modeli seçin, 1–3 saatte alın.",
+    "help": "Yardım mı lazım?",
+    "call": "Bizi arayın"
+  },
+  "about": {
+    "eyebrow": "Hakkımızda",
+    "title": "Hakkımızda",
+    "intro": "Direksiyon kaplama işini yerinde, sökmeden yapıyoruz.",
+    "kicker": "İşimiz",
+    "heading": "Araca ve kişiye özel direksiyon.",
+    "body": "Deri kılıfı direksiyonunuzu sökmeden dikiyoruz. İstediğiniz modeli dükkanda görüp beğenirsiniz. Toptan ve perakende satışımız var.",
+    "principles": "İlkelerimiz",
+    "principlesTitle": "Her işte aynı dört ilke.",
+    "band": "Doğru modeli birlikte seçelim."
+  },
+  "service": {
+    "scope": "Neler dahil",
+    "title": "Baştan doğru seçin.",
+    "body": "Modeli ve deriyi birlikte belirleriz, sonra yerinde dikeriz. Ne alacağınızı baştan bilirsiniz.",
+    "checks": "Neleri konuşuyoruz",
+    "checkItems": [
+      "Araç modeliniz ve direksiyon yapısı",
+      "Deri ve dikiş seçenekleri",
+      "Süre: 1–3 saat",
+      "Randevu saati ve teslim"
+    ],
+    "stepsTitle": "Dört adım, sürpriz yok.",
+    "sideKicker": "Yardım",
+    "sideTitle": "Size uygun modeli birlikte bulalım.",
+    "sideText": "Birkaç ayrıntı paylaşın, size dönelim.",
+    "sideList": [
+      "Gelmeden arayın",
+      "Yerinde dikim",
+      "Toptan ve perakende"
+    ],
+    "related": "Diğer hizmetler",
+    "relatedTitle": "İlgili hizmetler.",
+    "formTitle": "Randevu alın:",
+    "formHeading": "Aracınızı birlikte planlayalım.",
+    "formText": "Modeli, süreyi ve randevuyu netleştirir, size döneriz."
+  },
+  "contact": {
+    "eyebrow": "İletişim",
+    "title": "İletişim",
+    "intro": "Sorunuz mu var? Bize yazın, aynı gün dönelim.",
+    "kicker": "İletişim",
+    "heading": "Bize mesaj gönderin.",
+    "text": "Aracınızı yazın, ekibimiz size dönsün.",
+    "office": "Adresimiz",
+    "phoneEmail": "Telefon ve e-posta",
+    "hours": "Çalışma saatleri",
+    "hoursValue": "Randevu ile",
+    "closed": "Gelmeden önce aramanız yeterlidir.",
+    "phone": "Telefon",
+    "email": "E-posta"
+  },
+  "footer": {
+    "tagline": "Araca özel deri direksiyon kılıfını sökmeden, yerinde dikiyoruz.",
+    "rights": "Tüm hakları saklıdır.",
+    "contact": "İletişim ve adres",
+    "trust": [
+      "Gelmeden arayın",
+      "Yerinde dikim",
+      "Toptan ve perakende"
+    ]
+  },
+  "notFound": {
+    "title": "Sayfa bulunamadı",
+    "text": "Aradığınız sayfa mevcut değil ya da taşınmış.",
+    "home": "Ana sayfaya dön"
+  }
+}
